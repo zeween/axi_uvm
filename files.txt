@@ -1,0 +1,15 @@
+axi4.v
+axi_memory.v
+axi_transaction.sv
+axi_seq.sv
+axi_if.sv
+axi_sqr.sv
+axi_drv.sv
+axi_mon.sv
+axi_agn.sv
+axi_scb.sv
+axi_cov.sv
+axi_env.sv
+axi_test.sv
+axi_pkg.sv
+axi_top.sv
